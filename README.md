@@ -21,7 +21,7 @@ BBox-Label-Tool-For-RetinaNet
 
        self.classNames = ['copper','shilver','iron','gold','carbon','other']
       
- ・Basic functions is the same as original one. Check below the original description.
+ ・Basic functions is the same as original one. Check the below original description.
 
 
 
