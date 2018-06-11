@@ -4,7 +4,9 @@
 # Author:      Qiushi
 # Created:     06/06/2014
 
-#
+#modifyed by bwerler
+#Purpose:     Label object bboxes for ImageNet Detection data for RetinaNet
+#Created 06/11/2018
 #-------------------------------------------------------------------------------
 from __future__ import division
 #from Tkinter import *
