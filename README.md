@@ -1,8 +1,8 @@
 BBox-Label-Tool-For-RetinaNet
 =============================
 
-**abstract**
--BBox-Label-Tool is a image annotation tool for object detection using machine learning.
+**abstract**　　
+BBox-Label-Tool is a image annotation tool for object detection using machine learning.
 RetinaNet is one of machine learning object detection algorithmes.
 I optimized BBox-Label-Tool for RetinaNet.
 
