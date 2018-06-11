@@ -1,14 +1,18 @@
 BBox-Label-Tool-For-RetinaNet
 =============================
 
+**Links**　　
+・[Qiita](http://qiita.com "Qiita")
+・RetinaNet(https://github.com/fizyr/keras-retinanet)
+
 **abstract**　　   
 BBox-Label-Tool is a image annotation tool for object detection using machine learning.         
 RetinaNet is one of machine learning object detection algorithmes.      
 I optimized BBox-Label-Tool for RetinaNet.     
 
 **features**    
--・You can draw boxes with the class information.     
--・You can specify the directory path of the image.    
+・You can draw boxes with the class information.     
+・You can specify the directory path of the image.    
  
 **remarks**    
 ・Finally,you would get some csv files for each images.Please merge these by yourself.   
