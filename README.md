@@ -17,7 +17,7 @@ BBox-Label-Tool-For-RetinaNet
  
 **remarks**    
  ・Finally,you would get some csv files for each images.Please merge these by yourself.   
- ・you can add and change classes by changing source directory. Check below code.
+ ・you can add and change classes by changing source directly. Check below code.
 
        self.classNames = ['copper','shilver','iron','gold','carbon','other']
       
